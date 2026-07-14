@@ -1,6 +1,6 @@
 # Card Game 
 
-Asimple card game webpage created uaing HTML and Css.
+Asimple card game webpage created uaing HTML and CSS.
 
 # Technologies Used
 
